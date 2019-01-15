@@ -9,5 +9,6 @@ public class AdjustDialog{
 		int xpos = (int) (f.getX() + f.getWidth()/2 - dia.getWidth()/2);
 		int ypos = (int) (f.getY() + f.getHeight()/2 - dia.getHeight()/2);
 		dia.setLocation(xpos,ypos);
+		System.out.println("hi");//나중에 지울부분
 	}
 }
