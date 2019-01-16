@@ -4,17 +4,17 @@
  * Copyright (C) 2019  H.M. YOON, D.U. OH, S.H. CHAE.
  *
  * Java GUI Template is free software: you can redistribute it and/or modify
- * it under the terms of the GNU GPL General Public License as published by
+ * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 1 of the License, or
  * any later version.
  *
  * Java GUI Template is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE, See the
- * GNU GPL General Public License for more details.
+ * GNU General Public License for more details.
  * it would be glad to be notified any further modification to copyrighters .
  *
- * You should have received a copy of the GNU GPL General Public License
+ * You should have received a copy of the GNU General Public License
  * along with Java GUI Template.  If not, see <http://www.gnu.org/licenses/>.
  */
 
@@ -249,10 +249,12 @@ class AboutDialog{
 			/*add About statements here :) */
 		 	String detailstring = 
 		 	"GUI Template for everyone"
-		 	+ "\n(c) Copyright HM Yoon and others 2019. All rights reserved."
-		 	+ "\nall the properties of this program follow GNU lisence."
+		 	+ "\n(c) Copyright HM Yoon, DU Oh and SH Chae 2019. All rights reserved."
+		 	+ "\nall the properties of this program follow GNU General Public License lisence."
 		 	+ "\ncontact details"
 		 	+ "\nHM Yoon jcjc7890@gmail.com"
+		 	+ "\nDU Oh odu.wave@gmail.com"
+		 	+ "\nSH Chae tjdghco1@gmail.com"
 		 	+ "\n"
 		 	+ "\n"
 		 	+ "\n";
