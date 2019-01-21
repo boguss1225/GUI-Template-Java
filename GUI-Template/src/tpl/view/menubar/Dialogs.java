@@ -16,7 +16,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
-import javax.swing.SwingConstants;
 
 import tpl.model.Model;
 import tpl.view.AdjustDialog;
@@ -124,7 +123,7 @@ class exitDialog{
 	 	
 	 	/*announcement */
 	 	JLabel l1 = new JLabel("Will you EXIT this program?");
-	 	l1.setHorizontalAlignment(SwingConstants.CENTER);
+	 	l1.setHorizontalAlignment(l1.CENTER);
 		/*set button1*/
 		JButton b1 = new JButton("OK");
 		class b1EventHandler implements ActionListener{
