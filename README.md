@@ -15,6 +15,8 @@ JavaSE-1.8
 //(git link)
 
 # News:
+2020 - AUG -> There are heaps of better GUI framework out thier !\
+Please use this for low level programming practice~\
 GUI-template 1.0 was released on Github in January, 2019.
 
 # General Features:
